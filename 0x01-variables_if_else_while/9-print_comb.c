@@ -4,7 +4,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * main - Start Point
  * Description: Prints all single digit numbers of base 16
@@ -27,4 +26,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-  }
+}
